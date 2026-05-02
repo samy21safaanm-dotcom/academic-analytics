@@ -1,0 +1,13 @@
+flask
+flask-cors
+pandas
+numpy
+scikit-learn
+openpyxl
+xlrd
+lxml
+xlsxwriter
+python-dateutil
+werkzeug
+yagmail
+python-dotenv
